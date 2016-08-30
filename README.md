@@ -1,2 +1,3 @@
 # hello-world
-Hello World!
+#This is a tutorial file 
+#Learning how to use GitHub
